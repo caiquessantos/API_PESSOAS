@@ -9,7 +9,7 @@
 
 > Status do Projeto: ✔️ Concluido ✔️
 
-### Este repositório contém um projeto de exemplo de uma API RESTful com operações CRUD (Create, Read, Update, Delete) implementadas em Spring Boot, utilizando um banco de dados MySQL para armazenar informações de tarefas, com o padrão DTO para encpsulamento de informações.
+### Este repositório contém um projeto de exemplo de uma API RESTful com operações CRUD (Create, Read, Update, Delete) implementadas em Spring Boot, utilizando um banco de dados MySQL para armazenar informações de tarefas, com o padrão Value Object para encpsulamento de informações.
 
 ## 🛠️ Funcionalidades do projeto 🛠️
 
